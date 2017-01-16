@@ -7,6 +7,7 @@ uses
   Vcl.StdCtrls, Vcl.Dialogs, Vcl.ComCtrls, Vcl.DBCtrls, System.Generics.Collections,
   uIBDB;
 
+	
 type
   TControlAligner = class;
 
